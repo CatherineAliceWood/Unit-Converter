@@ -7,14 +7,15 @@
     margin-top: 50px;
     border-radius: 5px;
 }
+
 .input-section {
-    background-color:blueviolet;
+    background-color: blueviolet;
     padding: 20px
 }
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:floralwhite;
+    color: floralwhite;
     font-size: 20pt;
 }
 
@@ -30,20 +31,21 @@ input {
 }
 
 button {
-    background-color:floralwhite;
+    background-color: floralwhite;
     border-radius: 5px;
     border: 3px solid floralwhite;
     padding: 5px 15px;
-    color:midnightblue;
+    color: midnightblue;
 }
 
-button:hover, button:active {
+button:hover,
+button:active {
     border: 3px solid midnightblue;
 }
 
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:floralwhite;
+    color: floralwhite;
     font-size: 16pt;
 }
 
@@ -60,7 +62,7 @@ p {
 }
 
 .units-divs {
-    background-color:darkslateblue;
+    background-color: darkslateblue;
     margin-bottom: 10px;
     padding: 10px;
 }
