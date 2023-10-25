@@ -1,5 +1,5 @@
 # Unit Converter
-[https://catherinealicewood.github.io/Unit-Converter/]
+[https://catherinealicewood.github.io/Unit-Converter/](https://catherinealicewood.github.io/Unit-Converter/)
 
 A solo project for the Scrimba Frontend Web Dev Career Path
 
